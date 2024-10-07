@@ -1,0 +1,96 @@
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\bin\Debug\Interface.exe.config
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\bin\Debug\Interface.exe
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\bin\Debug\Interface.pdb
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\obj\Debug\Interface.exe
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\obj\Debug\Interface.pdb
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\Interface\obj\Debug\Interface.Form2.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\bin\Debug\Interface.exe.config
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\obj\Debug\Interface.exe
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\obj\Debug\Interface.pdb
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\bin\Debug\Interface.exe
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\bin\Debug\Interface.pdb
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\obj\Debug\Interface.Form1.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\obj\Debug\Interface.Form2.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\Interface\bin\Debug\naudio.dll
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\bin\Debug\Interface.exe.config
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.exe
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.pdb
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\bin\Debug\Interface.exe
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\bin\Debug\Interface.pdb
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.ErrorFactorForm.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.Form1.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.HelpForm.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.SessionRepeatForm.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\4. 구현명세서\음이탈\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\bin\Debug\Interface.exe.config
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.exe
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.pdb
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\bin\Debug\Interface.exe
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\bin\Debug\Interface.pdb
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.ErrorFactorForm.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.Form1.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.HelpForm.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.SessionRepeatForm.resources
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\bin\Debug\Id3Lib.dll
+C:\Users\전창호\Desktop\수업자료\3학년 2학기\시스템개발프로젝트\조 자료\음이탈\bin\Debug\Mp3Lib.dll
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\bin\Debug\Interface.exe.config
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.exe
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.pdb
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\bin\Debug\Interface.exe
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\bin\Debug\Interface.pdb
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.ErrorFactorForm.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.Form1.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.HelpForm.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.SessionRepeatForm.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\전시용\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\창호\Desktop\수업관련\시프\음이탈\bin\Debug\Interface.exe.config
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.exe
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.pdb
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\창호\Desktop\수업관련\시프\음이탈\bin\Debug\Interface.exe
+C:\Users\창호\Desktop\수업관련\시프\음이탈\bin\Debug\Interface.pdb
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.ErrorFactorForm.resources
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.Form1.resources
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.HelpForm.resources
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.SessionRepeatForm.resources
+C:\Users\창호\Desktop\수업관련\시프\음이탈\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\음이탈\bin\Debug\Interface.exe.config
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.exe
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.pdb
+C:\Users\User\Desktop\음이탈\bin\Debug\Interface.exe
+C:\Users\User\Desktop\음이탈\bin\Debug\Interface.pdb
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.ErrorFactorForm.resources
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.Form1.resources
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.HelpForm.resources
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.SessionRepeatForm.resources
+C:\Users\User\Desktop\음이탈\obj\Debug\Interface.csproj.GenerateResource.Cache
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\bin\Debug\Interface.exe.config
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.exe
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.pdb
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\bin\Debug\Interface.exe
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\bin\Debug\Interface.pdb
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.ErrorFactorForm.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.Form1.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.HelpForm.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.Properties.Resources.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.SessionRepeatForm.resources
+C:\Users\sorro_000\Documents\Study\2016 3학년 2학기\시프\음이탈-최종발표용\obj\Debug\Interface.csproj.GenerateResource.Cache
